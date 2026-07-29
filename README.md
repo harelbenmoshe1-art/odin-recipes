@@ -1,1 +1,1 @@
-A simple website with a few links to recipes for my favourive things to eat.
+A simple website with a few links to recipes for my favourite things to eat.
